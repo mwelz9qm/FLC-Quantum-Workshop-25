@@ -1,5 +1,5 @@
 # FLC-Quantum-Workshop-25
-Just a big Jupyter notebook with what we were up to in July 2025
+Just a big Jupyter notebook with what we were up to in July 2025 at FLC. I still need to chop this up into smaller pieces!
 This README summarizes what you learned during our **Intro to Quantum Computing** workshop using **Qiskit**, and provides pointers for further exploration.
 
 ---
